@@ -1,1 +1,2 @@
 Hoy utilizaremos github que es un repositorio remoto
+agregemos un repositorio realizado en git
